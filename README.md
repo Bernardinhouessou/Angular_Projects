@@ -24,12 +24,9 @@ List of Angular projects - (Ongoing Projects)
          • Ajout des fonctionalités : gestion des erreurs , panier ...)
          • Traduction dynamique en anglais et en francais du site
          • Gestion du consentement aux cookies RGPD avec "ngx-cookieconsent"
-         • Connexion par un client existant et enregistrement d'un nouveau client avec l'intégration de l'authentification avec les fournisseurs externes (Google, Facebook, Twitter …)
-         • Gestion du profil d'un membre (galérie photos …)
-         • Email et récupération de mot de passe 
-         • Mise en page et gestion des correspondances, des Like/UnLike et filrage par age, sexe, membres actif ou nouveaux membres,  
+         • Connexion par un client existant et enregistrement d'un nouveau client avec l'intégration de l'authentification avec les fournisseurs externes (Google, Facebook, Twitter …)          
          • Système de messagerie privée en temps réel avec SignalR
-         • Gestion du paramètrage du compte client (Mot de passe ...)
+         • Gestion du paramètrage du compte client (Email et récupération de mot de passe  ...)
          • Intégration de passerelles de paiement (Stripe, Google Pay, PayPal)
          • Documentation de l'API  avec Swagger et son versionnage 
 
