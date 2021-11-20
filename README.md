@@ -4,6 +4,9 @@ List of Angular projects - (Ongoing Projects)
 
 * Dating website - Site de rencontre - ASP.NET Core 3.1 et Angular 9 from scratch
    * For more images : https://github.com/Bernardinhouessou/Angular_Projects/tree/main/images/DatingApp
+ 
+ ![image](https://github.com/Bernardinhouessou/Angular_Projects/blob/main/images/DatingApp/HomePage_CookieConsent_RGPD.PNG)
+ 
    * Tâches et réalisations:
      * Ajout des fonctionalités : gestion des erreurs
      * Traduction dynamique en anglais et en francais du site
@@ -16,8 +19,8 @@ List of Angular projects - (Ongoing Projects)
      * Gestions des membres et des administrateurs du site
      * Intégration de passerelles de paiement (Stripe, Google Pay, PayPal)
      * Documentation de l'API  avec Swagger et son versionnage
- 
- ![image](https://github.com/Bernardinhouessou/Angular_Projects/blob/main/images/DatingApp/HomePage_CookieConsent_RGPD.PNG)
+
+
 * E-Commerce - ASP.NET Core 3.1 et Angular 9 from scratch
    * For more images : https://github.com/Bernardinhouessou/Angular_Projects/tree/main/images/Ecom
    * Tâches et réalisations:
