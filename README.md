@@ -5,7 +5,7 @@ List of Angular projects - (Ongoing Projects)
 * Dating website - Site de rencontre - ASP.NET Core 3.1 et Angular 9 from scratch
    * For more images : https://github.com/Bernardinhouessou/Angular_Projects/tree/main/images/DatingApp
    * Tâches et réalisations:
- ** Ajout des fonctionalités : gestion des erreurs
+     * Ajout des fonctionalités : gestion des erreurs
  ** Traduction dynamique en anglais et en francais du site
          • Gestion du consentement aux cookies RGPD avec "ngx-cookieconsent"
          • Connexion par un membre existant et enregistrement d'un nouveau membre avec l'intégration de l'authentification avec les fournisseurs externes (Google, Facebook, Twitter …)
